@@ -7,4 +7,4 @@ if (arg1 !== undefined && arg2 !== undefined) {
   } else {
     
     console.log("Please provide exactly two arguments.");
-  }s
+  }
